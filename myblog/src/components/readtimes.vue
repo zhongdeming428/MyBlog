@@ -5,7 +5,7 @@
     <ul>
       <li>
         <!--<router-link :to="'/readtimes/'+item.blog.blogTitle">{{item.blog.blogTitle+'('+item.count+')'}}</router-link>-->
-        <h5>暂不支持</h5>
+        <h5>暂不支持!</h5>
       </li>
     </ul>
   </div>
